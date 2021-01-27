@@ -1,4 +1,4 @@
-from typing import List
+from typing import *
 
 
 class Solution:
@@ -11,3 +11,4 @@ class Solution:
 
 sol = Solution()
 print(sol.twoSum([2, 7, 11, 15], 9))
+# practice
